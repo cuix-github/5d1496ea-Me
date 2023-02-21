@@ -1,0 +1,4 @@
+baseURL = 'http://cuix.github.io/'
+languageCode = 'en-us'
+title = '5D1496EA'
+theme = "resume"

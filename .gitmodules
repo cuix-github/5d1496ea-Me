@@ -1,0 +1,4 @@
+[submodule "AboutMe/public"]
+	path = AboutMe/public
+	url = https://github.com/cuix-github/cuix.github.io.git
+	branch = main
